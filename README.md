@@ -42,6 +42,6 @@ Pasta contendo as soluções dos Exercicios do Bootcamp por Giovanna Polissici
   
 # Aula 4
 
-- [ ] [SaveTheRopa](https://drive.google.com/file/d/1qfHySLBVic4CsAh0oM_QnHh5pc5v-HVl/view)
-- [ ] [Dakar](https://docs.google.com/document/d/e/2PACX-1vT2-xAkcni3Iobx4pXGMfruUo74TM_cAvVKVrhM_lW_Qj-5QB2Hmncax9AjsD54STAp4TOSCB8GGduA/pub) 
-- [ ] [La Chiqui](https://docs.google.com/document/d/e/2PACX-1vR5B0Vv4PB3UXFoK39BT3KkxVFmp-WcU18jxkPhSKHBzsGzkEiHYfsKHEYrBAHDfJz0uXaoJzhCmXHK/pub)
+- [X] [SaveTheRopa](https://drive.google.com/file/d/1qfHySLBVic4CsAh0oM_QnHh5pc5v-HVl/view)
+- [X] [Dakar](https://docs.google.com/document/d/e/2PACX-1vT2-xAkcni3Iobx4pXGMfruUo74TM_cAvVKVrhM_lW_Qj-5QB2Hmncax9AjsD54STAp4TOSCB8GGduA/pub) 
+- [X] [La Chiqui](https://docs.google.com/document/d/e/2PACX-1vR5B0Vv4PB3UXFoK39BT3KkxVFmp-WcU18jxkPhSKHBzsGzkEiHYfsKHEYrBAHDfJz0uXaoJzhCmXHK/pub)
